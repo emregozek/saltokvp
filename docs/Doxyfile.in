@@ -1,0 +1,2 @@
+OUTPUT_DIRECTORY       = @CMAKE_CURRENT_BINARY_DIR@/doc_doxygen/
+INPUT                  = @PROJECT_SOURCE_DIR@/src/kvp_server @PROJECT_SOURCE_DIR@/src/kvp_client @PROJECT_SOURCE_DIR@/include/kvp_server @PROJECT_SOURCE_DIR@/include/kvp_client @PROJECT_SOURCE_DIR@/include/kvp_store @PROJECT_SOURCE_DIR@/include/salto_ipc @PROJECT_SOURCE_DIR@/lib/ @PROJECT_SOURCE_DIR@/lib/salto_ipc @PROJECT_SOURCE_DIR@/lib/kvp_store @PROJECT_SOURCE_DIR@/docs
