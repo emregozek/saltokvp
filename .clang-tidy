@@ -1,0 +1,15 @@
+---
+Checks: "
+        readability-*,
+        modernize-use-nullptr,
+        modernize-pass-by-value,
+"
+WarningsAsErrors: ''
+HeaderFilterRegex: ''
+FormatStyle:     none
+
+
+
+
+
+
