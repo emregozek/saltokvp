@@ -5,4 +5,4 @@ PROJECT_TOP_DIR=${SCRIPT_DIR}/../
 CUR_DIR=$(pwd)
 BUILD_DIR=${PROJECT_TOP_DIR}/build/release
 
-watch -n1 cat ${BUILD_DIR}/src/saltokvp.txt
+while :; do clear; cat ${BUILD_DIR}/src/saltokvp.txt; sleep 1; done
